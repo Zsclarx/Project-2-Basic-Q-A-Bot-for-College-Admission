@@ -1,8 +1,3 @@
-
-Certainly! Below is a basic template for documenting your project. This is just a starting point, and you can expand on each section based on your project's specific requirements.
-
----
-
 # Admission Chatbot Documentation
 
 ## Overview
