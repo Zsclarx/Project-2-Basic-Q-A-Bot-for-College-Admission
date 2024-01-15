@@ -33,7 +33,7 @@ The Admission Chatbot is a project that implements a chatbot to assist users wit
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/Admission_Chat_bot.git
+   git clone https://https://github.com/Zsclarx/Project-2-Basic-Q-A-Bot-for-College-Admission
    ```
 
 2. Install dependencies:
