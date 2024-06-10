@@ -25,7 +25,7 @@ The Admission Chatbot is a project that implements a chatbot to assist users wit
 ## Prerequisites
 
 - Python 3.x
-- PyTorch
+- Tensorflow
 - NLTK
 
 ## Installation
