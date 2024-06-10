@@ -19,7 +19,7 @@ The Admission Chatbot is a project that implements a chatbot to assist users wit
 4. **data.pth**
    - Saved PyTorch model state and other necessary information.
 
-5  **train_model.py**
+5  **train.py**
   - contains code for training nltk model on the specified queries of admission.
 
 ## Prerequisites
@@ -45,7 +45,7 @@ The Admission Chatbot is a project that implements a chatbot to assist users wit
 3. Run the chatbot script:
 
    ```bash
-   python train_mode.py
+   python train.py
    python chat.py
    ```
 
@@ -54,7 +54,7 @@ The Admission Chatbot is a project that implements a chatbot to assist users wit
 The model is trained on the intents provided in `intents.json`. The training script (`train_model.py`) processes the data, tokenizes sentences, and trains the neural network using PyTorch.
 
 ```bash
-python train_model.py
+python train.py
 ```
 
 ## Usage
