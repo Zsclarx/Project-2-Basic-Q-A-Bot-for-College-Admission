@@ -11,13 +11,13 @@ The Admission Chatbot is a project that implements a chatbot to assist users wit
    - Contains utility functions for tokenization, stemming, and bag-of-words representation using NLTK.
 
 2. **model.py**
-   - Defines the structure of the neural network model using PyTorch.
+   - Defines the structure of the neural network model using Tensorflow.
 
 3. **intents.json**
    - JSON file containing intents, patterns, and responses for training the chatbot.
 
-4. **data.pth**
-   - Saved PyTorch model state and other necessary information.
+4. **chat_model**
+   - Saved Tensorflow model state and other necessary information.
 
 5  **train.py**
   - contains code for training nltk model on the specified queries of admission.
