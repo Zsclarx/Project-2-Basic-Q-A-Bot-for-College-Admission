@@ -51,7 +51,7 @@ The Admission Chatbot is a project that implements a chatbot to assist users wit
 
 ## Training the Model
 
-The model is trained on the intents provided in `intents.json`. The training script (`train_model.py`) processes the data, tokenizes sentences, and trains the neural network using PyTorch.
+The model is trained on the intents provided in `intents.json`. The training script (`train.py`) processes the data, tokenizes sentences, and trains the neural network using PyTorch.
 
 ```bash
 python train.py
