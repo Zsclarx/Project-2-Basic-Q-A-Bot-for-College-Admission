@@ -1,20 +1,14 @@
-import torch
-import torch.nn as nn
+import tensorflow as tf
+from tensorflow.keras.layers import Dense
 
-
-class NeuralNet(nn.Module):
+class NeuralNet(tf.keras.Model):
     def __init__(self, input_size, hidden_size, num_classes):
         super(NeuralNet, self).__init__()
-        self.l1 = nn.Linear(input_size, hidden_size) 
-        self.l2 = nn.Linear(hidden_size, hidden_size) 
-        self.l3 = nn.Linear(hidden_size, num_classes)
-        self.relu = nn.ReLU()
-    
-    def forward(self, x):
-        out = self.l1(x)
-        out = self.relu(out)
-        out = self.l2(out)
-        out = self.relu(out)
-        out = self.l3(out)
-        # no activation and no softmax at the end
-        return out
+        self.dense1 = Dense(hidden_size, activation='relu', input_shape=(input_size,))
+        self.dense2 = Dense(hidden_size, activation='relu')
+        self.dense3 = Dense(num_classes, activation='softmax')
+
+    def call(self, x):
+        x = self.dense1(x)
+        x = self.dense2(x)
+        return self.dense3(x)

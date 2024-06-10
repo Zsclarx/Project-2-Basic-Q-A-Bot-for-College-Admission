@@ -1,0 +1,225 @@
+patterns,tag
+hey,greeting
+hello,greeting
+hi,greeting
+good morning,greeting
+good evening,greeting
+hey there,greeting
+hi bot,greeting
+hi IIT BHU,greeting
+hy IIT BHU bot,greeting
+hi IIT BHU bot,greeting
+bye,goodbye
+goodbye,goodbye
+see you around,goodbye
+see you later,goodbye
+Thanks,thanks
+Thank you,thanks
+That's helpful,thanks
+Thank's a lot!,thanks
+yes,items
+indeed,items
+of course,items
+that sounds good,items
+correct,items
+alright then,items
+sounds good,items
+great,items
+yeah,items
+yup,items
+sure do,items
+I dure do,items
+I do,items
+I agree,items
+no,deny
+never,deny
+I don't think so,deny
+don't like that,deny
+no way,deny
+not really,deny
+I disagree,deny
+I don't,deny
+nah,deny
+nope,deny
+How long does delivery take?,admission_schedule
+How long does shipping take?,admission_schedule
+When do I get my delivery?,admission_schedule
+are you a bot?,bot_challenge
+are you a human?,bot_challenge
+am I talking to a bot?,bot_challenge
+am I talking to a human?,bot_challenge
+who are you?,bot_challenge
+what is your name?,bot_challenge
+what are you?,bot_challenge
+how can i get scholarship?,scholarship
+criteria for scholarship,scholarship
+scholarship,scholarship
+financial aid,scholarship
+Can anyone guide me about scholarship...?,scholarship
+I need information about the scholarship procedure.,scholarship
+I need guidance through the procedure of scholarship application ?,scholarship
+I need guidance for the application of scholarship.,scholarship
+What is the process of scholarship application ?,scholarship
+I need information of the procedure of application of scholarship ?,scholarship
+what is the process of scholarship?,scholarship
+how can I get scholarship?,scholarship
+what is the process of financial aid?,scholarship
+how can I get financial aid?,scholarship
+what is the process of need based scholarship,scholarship
+what about study loan,scholarship
+how can I get study loan,scholarship
+how can I apply for study loan,scholarship
+how can I apply for financial aid,scholarship
+where can I apply for financial aid?,scholarship
+where can I apply for scholarship?,scholarship
+Can the warning count increase or decrease in summer semester ?,summer_warning
+Will the warning count be changed in summer semester ?,summer_warning
+does warning count is affected in summer semester?,summer_warning
+does warning count increment or decrement in summer?,summer_warning
+what about summer semester warning?,summer_warning
+Will the warning count be changed in summer semester ?,summer_warning
+Can the warning count increase or decrease in summer semester ?,summer_warning
+Will there be any warning count in summer?,summer_warning
+Will the warning count be incremented in summer?,summer_warning
+Will the warning count be changed in summer semester ?,summer_warning
+Can the warning count increase or decrease in summer semester ?,summer_warning
+where can I get sample test papers,past_papers
+sample test papers,past_papers
+past papers,past_papers
+Do anyone have online material for the prepration of IIT BHU admission test or anylink plz let me know if anyone have?,past_papers
+I need online preparation material for the IIT BHU admission test.,past_papers
+What are the updates of the links to online material for the preparation of IIT BHU admission test ?,past_papers
+What is the information regarding the preparation of IIT BHU admission test through online learning and links ? ,past_papers
+"Online material and links for the preparation of IIT BHU university admission test are urgently needed, I need information regarding this ? ",past_papers
+"Online material for the preparation of IIT BHU university admission test is required, What are the updates with regards to this ? ",past_papers
+Where can we get past papers of IIT BHU university regarding the entry test ? ,past_papers
+Where are the past paper of IIT BHU university entry test available ? ,past_papers
+Where can I get the past papers of IIT BHU university entry test ? ,past_papers
+Is there anyway I could find the past papers of IIT BHU university entry test ,past_papers
+Where would I be able to get a hold of the past paper of IIT BHU university entry test ? ,past_papers
+What is syllabus of entry test As I am an A level student,past_papers
+What is the syllabus of entry test for an A levels student ?,past_papers
+What would the syllabus of entry test be for a student who has cleared A levels ?,past_papers
+I need information about the syllabus of entry test as I am an A levels student.,past_papers
+"I have cleared my A levels, what would the syllabus of entry test be for me ?",past_papers
+What syllabus to I have to go through for entry test being a student of A levels ?,past_papers
+How can a person prepare for the IIT BHU entry?,past_papers
+What are the ways to prepare for the IIT BHU entry test?,past_papers
+Does anyone know how to prepare for entry test of IIT BHU university?,past_papers
+where can we get past papers of IIT BHU university ? ,past_papers
+Where are the past paper of IIT BHU university available ? ,past_papers
+Where will I be able to get past papers of IIT BHU university from ?,past_papers
+Is there anyway I could find the past papers of IIT BHU university ? ,past_papers
+Where would I be able to get a hold of the past paper of IIT BHU university,past_papers
+How can I apply in IIT BHU if I have less than 60% marks in jee advance?,admission
+"I have less than 60% in jee advance, How can I apply in IIT BHU university ?",admission
+What is the procedure of application in IIT BHU university for those students who have achieved less than 60% in jee advance ?,admission
+What process should students with less than 60% go through to attain an admission in IIT BHU university ?,admission
+How can a student with less than 60% in jee advance apply in IIT BHU university ?,admission
+Through which process can a student who has achieved less than 60% apply in IIT BHU university ?,admission
+"I have completed my jee advance in 2017 and unfortunately wasted an year after that, Will I be able to apply on the basis of first year ?",admission
+Can I apply on the basis of first year eventhough I cleared my jee advance in 2017 and ommited an year after that ?,admission
+"I had to miss an year after clearance of my jee advance in 2017, Will the university permit me to apply on the basis of my first year ?",admission
+Will I be allowed to apply on the basis of first year despite the fact that I have ommited an year after the clearance of my jee advance in 2017,admission
+"I cleared jee advance in 2017, would I be permitted to apply on the basis of my first year eventhough I have missed an year ?",admission
+"Being an improver, will I be able to apply for IIT-K ?",admission
+Will I be able to apply for IIT-K as I am an improver ?,admission
+Can an improver apply for admission in IIT-K ?,admission
+Is it possible for an improver to apply in IIT-K ?,admission
+Is it permissible for an improver to apply for admission in IIT-K ,admission
+Is it possible to attain admission in IIT-K in Varanasi if I have achieved 65% in HSSC-1 and 77 marks in NTS ?  ,admission
+"I have attained 65% in HSSC-1 and 77 marks in NTS, Is it possible to get an admission in IIT-K in Varanasi ?",admission
+Will it be possible for me to attain an admission in IIT-K in Islamabaad if my HSSC-1 percentage is 65% and NTS marks are 77 ? ,admission
+"With a result of HSSC-1 65% and 77 marks in NTS, Is there anyway I could get an admission in IIT-K in Islamabaad ? ",admission
+Can a student with an aggregate of 65% in HSSC-1 and 77 marks in NTS get an admission in IIT-K in Islamabaad?,admission
+what is the eligibility criteria for admission,admission
+what is the selection criteria,admission
+what is the admission fees?,fee_structure
+what is the fee structure,fee_structure
+what is the tuition fee,fee_structure
+I need information of the token fees of IIT BHU university ?,fee_structure
+how much token fees will we have to pay in IIT BHU university ?,fee_structure
+What amount is essential for the payment of token fees in IIT BHU university ?,fee_structure
+How much amount is paid for the token fees in IIT BHU university ? ,fee_structure
+I need information on the amount required to be paid as token fees in IIT BHU university ? ,fee_structure
+What will the semester fees be If I appear on the merit list?,fee_structure
+What is the semester fees of the students who are on the merit list ? ,fee_structure
+What will my semester fees be after appearing on the merit list ? ,fee_structure
+How much will my semester fees be if I achieve appearing on the merit list ? ,fee_structure
+"After appearing on the merit list, what will my semester fees be ? ",fee_structure
+What are the complete fee structure of MSCS ?,fee_structure
+I need information on the complete fee structure of MSCS.,fee_structure
+I need to know the total fee structure of MSCS.,fee_structure
+What are details with regards to the total fee structure of MSCS ?,fee_structure
+Is there any information on the complete fee structure of MSCS ?,fee_structure
+why IIT BHU?,IIT BHU
+is IIT BHU number 1 university?,IIT BHU
+why should i choose IIT BHU university?,IIT BHU
+why IIT BHU is good for me?,IIT BHU
+why should i apply at IIT BHU university?,IIT BHU
+why IIT BHU university?,IIT BHU
+What fields of Engineering is offered by IIT BHU university ?,offered_programs
+Engineering in IIT BHU university is divided into which different offered fields ?,offered_programs
+Which fields of Engineering does IIT BHU university offer to its students ?,offered_programs
+What are the sections of Engineering that are offered by IIT BHU university ?,offered_programs
+What sections of Engineering does IIT BHU university offer ?,offered_programs
+which degree programs are being offered for undergraduate students,offered_programs
+which degree programs are being offered for graduate students,offered_programs
+which degree programs are being offered for post graduates,offered_programs
+which degree programs are being offered for phd,offered_programs
+is there hostel available,hostel
+hostel for girls,hostel
+hostel facility,hostel
+oncampus hostel,hostel
+incampus hostel,hostel
+are you a bot?,test_pattern
+are you a human?,test_pattern
+am I talking to a bot?,test_pattern
+am I talking to a human?,test_pattern
+who are you?,test_pattern
+what is your name?,test_pattern
+what are you?,test_pattern
+What is the information regarding negative marking ? ,negative_marking
+What are the details about the negative marking ? ,negative_marking
+What are the updates in regards to the negative marking system ? ,negative_marking
+Is there any information available about the negative marking ? ,negative_marking
+How will the negative marking take place ? ,negative_marking
+Is There Any Need Of Domicile If We Apply Online From As Overseas Pakistani? ,Domicile
+Does an Overseas Pakistani also has to provide domicile for applying online ? ,Domicile
+"Being an Overseas Pakistani, Do I too have to provide a domicile in order to apply online ? ",Domicile
+Is domicile required even from Overseas Pakistani while online application ? ,Domicile
+"Applying online as an overseas Pakistani, Will I still have to provide a domicile? ",Domicile
+Will a domicile still be necessary if I apply online as an overseas Pakistani ? ,Domicile
+What are the ideal marks required for an admission,aggregate
+duration of graduation,graduation
+how many credit hours are required to graduate,graduation
+credit hours for graduation,graduation
+ how many credit hours are in bachelors degree for graduation,graduation
+ graduation period,graduation
+ maximum years to graduate,graduation
+how to contact IIT BHU,contact
+contact details,contact
+how to connect with IIT BHU,contact
+how to reach IIT BHU,contact
+IIT BHU contact number,contact
+IIT BHU contact ,contact
+Spring admission? ,spring_admission
+I need instructions regarding the spring admissions? ,spring_admission
+What are the updates about the spring admissions ? ,spring_admission
+I need information of the spring admissions ? ,spring_admission
+What is the information announced about the spring admissions ? ,spring_admission
+What are the details of the spring admissions ?  ,spring_admission
+admission in spring semester,spring_admission
+ what about spring semester admission,spring_admission
+What is the procedure of a readmission in an undergraduate program for former students?,Admission_of_former
+What procedure do former students have to go through in order to take an admission in an undergraduate program ?,Admission_of_former
+Does admission test is necessary for readmission in an undergraduate program?,Admission_of_former
+Can a former student on disciplinary warning take readmission into university?,Admission_of_former
+how former student can apply for admission,Admission_of_former
+Can a former student who has been on disciplinary warning get a readmission ?,Admission_of_former
+Is it possible for a former student to get a readmission eventhough he has been on a disciplinary warning ?,Admission_of_former
+What happens if a student on disciplinary warning wants to take readmission in university?,Admission_of_former
+How many times can a former student who has been on 3rd academic warning gain readmission ?,Admission_of_former
+Can a former student who has been on disciplinary warning get a readmission ?,Admission_of_former
+Can a student with 3 academic warnings take admission?,Admission_of_former
+How many times a student is allowed to take admission after 3 academic warnings?,Admission_of_former
